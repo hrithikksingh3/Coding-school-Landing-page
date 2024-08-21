@@ -491,6 +491,10 @@ nav {
   }
 }
 
+.footer__bar{
+  font-size : 0.5rem;
+}
+
 @media (width > 768px) {
   nav {
     padding: 2rem 1rem;
